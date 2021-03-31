@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+}
+button{
+    border:solid 0px white;
+    font-size:20px;
+}
+.title{
+    font-size:30px;
+}
+#manual{
+    border:solid 3px #de4d4dc2;
+    border-radius:20px;
+    padding:20px;
+    font-size:17px;
+    margin:10px;
+}
+strong{
+    font-size:25px;
+}
+.danger{
+    color:red;
+}
+textarea{
+    width:500;
+    height:300;
+    border:solid 3px #de4d4dc2;
+}
+span{
+    font-size:25px;
+}
+.input{
+    float:left;
+    margin-left:150px;
+}
